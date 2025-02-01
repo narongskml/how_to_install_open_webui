@@ -1,6 +1,6 @@
 # Step by Step Setup Open Web-UI with Docker on Windows
 
-![1738419940427](image/README/1738419940427.png)
+![1738419940427](image/readme/1738419940427.png)
 
 - open-webui
 - openai-edge-tss
