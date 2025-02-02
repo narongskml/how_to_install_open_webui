@@ -7,6 +7,10 @@
 - nginx
 - generate ssl for https
 
+#### System Architecture
+
+![1738478909363](image/README/1738478909363.png)
+
 **Step by Step Click Link Below**
 
 1. [Setup Docker Desktop](1.setup_docker_desktop.md)
