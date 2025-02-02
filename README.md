@@ -9,7 +9,7 @@
 
 #### System Architecture
 
-![1738478909363](image/README/1738478909363.png)
+![1738478909363](image/readme/1738478909363.png)
 
 **Step by Step Click Link Below**
 
